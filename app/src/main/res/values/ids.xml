@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<item name="txt_tgl" type="id">tanggal</item>-->
+    <!--<item name="txt_jam" type="id">jam</item>-->
+    <!--<item name="btn_get_datetime" type="id">datetime</item>-->
+    <item name="txt_tgl" type="id" />
+    <item name="txt_jam" type="id" />
+    <item name="btn_get_datetime" type="id" />
+</resources>
